@@ -1,6 +1,6 @@
 ﻿## ESP32 Lyrics
 
-> This project uses an ESP32 to control an OLED display and a servo motor. The display shows words sequentially with specified delays, while the servo motor rotates or stops based on a button press. It combines text visualization and motor control for interactive functionality.
+> This project uses an ESP32 to control an OLED display. The display shows words sequentially with specified delays.
 
 **Requirements**
 |Materials  | Quantity |
