@@ -14,14 +14,14 @@
 **Programming**
 I used the Arduino core IDE with the ESP32 library.
 
-> Install the IDE from its official website
-> Also download the required library inside Arduino Core:
-> `Wire` (included in Arduino Core Libary)
-> `Adafruit GFX Library`
-> `Adafruit SSD1306`
-> `ESP32Servo`
-ESP32 Board for Arduino Core:
-https://dl.espressif.com/dl/package_esp32_index.json
+> Install the IDE from its official website <br>
+> Also download the required library inside Arduino Core: <br>
+> `Wire` (included in Arduino Core Libary) <br>
+> `Adafruit GFX Library` <br>
+> `Adafruit SSD1306` <br>
+> `ESP32Servo` <br>
+> ESP32 Board for Arduino Core: <br>
+> https://dl.espressif.com/dl/package_esp32_index.json <br>
 
 Source Code
 ---
