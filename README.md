@@ -11,7 +11,7 @@
 |LED  | 3 |
 |F-F Jumper Wires  | 3 |
 
-**Programming**
+**Programming** <br>
 I used the Arduino core IDE with the ESP32 library.
 
 > Install the IDE from its official website <br>
