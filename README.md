@@ -70,7 +70,7 @@ Diagram
 > Refer to the image below for the schematic diagram
 
 
-image_here.jpg
+schematic_oled.jpg
 
 
 **OLED to ESP32 Pin connection:**
