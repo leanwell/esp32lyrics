@@ -12,11 +12,11 @@
 |F-F Jumper Wires  | 3 |
 
 **Programming** <br>
-I used the Arduino core IDE with the ESP32 library.
+I used the Arduino IDE with the ESP32 library.
 
 > Install the IDE from its official website <br>
 > Also download the required library inside Arduino Core: <br>
-> `Wire` (included in Arduino Core Libary) <br>
+> `Wire` (included in Arduino Libary) <br>
 > `Adafruit GFX Library` <br>
 > `Adafruit SSD1306` <br>
 > `ESP32Servo` <br>
