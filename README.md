@@ -8,8 +8,8 @@
 |ESP32  | 1 |
 |OLED Display (0.96 in, 128x64, IIC)  | 1 |
 |Breadboard|1|
-|LED  | 3 |
-|F-F Jumper Wires  | 3 |
+|LED (soon)  | 3 |
+|M-F Jumper Wires  | 4 |
 
 **Programming** <br>
 I used the Arduino IDE with the ESP32 library.
@@ -20,7 +20,7 @@ I used the Arduino IDE with the ESP32 library.
 > `Adafruit GFX Library` <br>
 > `Adafruit SSD1306` <br>
 > `ESP32Servo` <br>
-> ESP32 Board for Arduino Core: <br>
+> ESP32 Board Manager for Arduino: <br>
 > https://dl.espressif.com/dl/package_esp32_index.json <br>
 
 Source Code
