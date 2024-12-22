@@ -15,7 +15,7 @@
 I used the Arduino IDE with the ESP32 library.
 
 > Install the IDE from its official website <br>
-> Also download the required library inside Arduino Core: <br>
+> Also install the required library inside Arduino IDE: <br>
 > `Wire` (included in Arduino Libary) <br>
 > `Adafruit GFX Library` <br>
 > `Adafruit SSD1306` <br>
