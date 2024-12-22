@@ -19,7 +19,6 @@ I used the Arduino IDE with the ESP32 library.
 > `Wire` (included in Arduino Libary) <br>
 > `Adafruit GFX Library` <br>
 > `Adafruit SSD1306` <br>
-> `ESP32Servo` <br>
 > ESP32 Board Manager for Arduino: <br>
 > https://dl.espressif.com/dl/package_esp32_index.json <br>
 
